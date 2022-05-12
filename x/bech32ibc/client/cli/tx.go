@@ -12,7 +12,7 @@ import (
 	"github.com/cosmos/cosmos-sdk/x/gov/client/cli"
 	govtypes "github.com/cosmos/cosmos-sdk/x/gov/types"
 
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc/types"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc/types"
 )
 
 var (

@@ -15,10 +15,10 @@ import (
 	cdctypes "github.com/cosmos/cosmos-sdk/codec/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc/client/cli"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc/client/rest"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc/keeper"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc/types"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc/client/cli"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc/client/rest"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc/keeper"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc/types"
 )
 
 var (

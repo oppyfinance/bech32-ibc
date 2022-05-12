@@ -4,7 +4,7 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 	"github.com/cosmos/cosmos-sdk/x/bank/types"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ics20/keeper"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ics20/keeper"
 )
 
 // NewHandler returns a handler for "bank" type messages.

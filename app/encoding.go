@@ -2,7 +2,7 @@ package app
 
 import (
 	"github.com/cosmos/cosmos-sdk/std"
-	"github.com/osmosis-labs/bech32-ibc/app/params"
+	"github.com/oppyfinance/bech32-ibc/app/params"
 )
 
 // MakeEncodingConfig creates an EncodingConfig for testing
