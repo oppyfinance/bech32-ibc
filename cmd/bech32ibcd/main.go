@@ -4,8 +4,8 @@ import (
 	"os"
 
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
-	"github.com/osmosis-labs/bech32-ibc/app"
-	"github.com/osmosis-labs/bech32-ibc/cmd/bech32ibcd/cmd"
+	"github.com/oppyfinance/bech32-ibc/app"
+	"github.com/oppyfinance/bech32-ibc/cmd/bech32ibcd/cmd"
 )
 
 func main() {

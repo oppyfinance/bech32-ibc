@@ -2,7 +2,7 @@ package keeper_test
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc/types"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc/types"
 )
 
 func (suite *KeeperTestSuite) TestHrpIbcRecords() {

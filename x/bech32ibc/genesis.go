@@ -2,8 +2,8 @@ package bech32ibc
 
 import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc/keeper"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc/types"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc/keeper"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc/types"
 )
 
 // InitGenesis initializes the module's state from a provided genesis

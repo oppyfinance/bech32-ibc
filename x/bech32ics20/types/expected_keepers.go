@@ -7,7 +7,7 @@ import (
 	transfertypes "github.com/cosmos/ibc-go/v2/modules/apps/transfer/types"
 	channeltypes "github.com/cosmos/ibc-go/v2/modules/core/04-channel/types"
 	"github.com/cosmos/ibc-go/v2/modules/core/exported"
-	bech32ibctypes "github.com/osmosis-labs/bech32-ibc/x/bech32ibc/types"
+	bech32ibctypes "github.com/oppyfinance/bech32-ibc/x/bech32ibc/types"
 )
 
 // Bech32HrpToSourceChannelMap defines the contract that must be fulfilled by a bech32 prefix to source

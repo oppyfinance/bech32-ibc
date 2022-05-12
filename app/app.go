@@ -82,12 +82,12 @@ import (
 	porttypes "github.com/cosmos/ibc-go/v2/modules/core/05-port/types"
 	ibchost "github.com/cosmos/ibc-go/v2/modules/core/24-host"
 	ibckeeper "github.com/cosmos/ibc-go/v2/modules/core/keeper"
-	appparams "github.com/osmosis-labs/bech32-ibc/app/params"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ibc"
-	bech32ibckeeper "github.com/osmosis-labs/bech32-ibc/x/bech32ibc/keeper"
-	bech32ibctypes "github.com/osmosis-labs/bech32-ibc/x/bech32ibc/types"
-	"github.com/osmosis-labs/bech32-ibc/x/bech32ics20"
-	bech32ics20keeper "github.com/osmosis-labs/bech32-ibc/x/bech32ics20/keeper"
+	appparams "github.com/oppyfinance/bech32-ibc/app/params"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ibc"
+	bech32ibckeeper "github.com/oppyfinance/bech32-ibc/x/bech32ibc/keeper"
+	bech32ibctypes "github.com/oppyfinance/bech32-ibc/x/bech32ibc/types"
+	"github.com/oppyfinance/bech32-ibc/x/bech32ics20"
+	bech32ics20keeper "github.com/oppyfinance/bech32-ibc/x/bech32ics20/keeper"
 	tmjson "github.com/tendermint/tendermint/libs/json"
 	// this line is used by starport scaffolding # stargate/app/moduleImport
 )
